@@ -13,7 +13,7 @@ Each dashboard is built with thematic aesthetics and provides clear insights to 
 
 A visually rich dashboard that provides insights into a coffee shop’s sales performance, customer behavior, and payment modes.
 
-![Coffee Dashboard Preview](./fa451ceb-7c06-4a3b-a92f-f8732301dd50.png)
+![Coffee Dashboard Preview](https://github.com/mubeenfa/PowerBi_Projects/blob/fb4db91827ca12ed37493678b8773cc1560e0c64/assets/coffee_dashboard.png)
 
 ### Highlights
 
