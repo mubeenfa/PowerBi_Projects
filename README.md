@@ -63,7 +63,7 @@ A modern and clean dashboard presenting a state-wise and category-wise overview 
 - `Coffee_Sales_Dashboard.pbix`
 - `Ecommerce_Sales_Dashboard.pbix`
 - `README.md`
-- `datasets/` - csv
+- `data/` - csv
 - `assets/` – screenshots, logos, or icons
 
 ---
