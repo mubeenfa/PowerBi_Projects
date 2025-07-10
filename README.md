@@ -3,7 +3,7 @@
 This repository showcases two professional Power BI dashboards designed for business intelligence and data visualization:
 
 1. ☕ **Coffee Shop Sales Dashboard**
-2. 🛒 **Ecommerce Sales Dashboard**
+2. 🛒 **Ecommerce Dashboard**
 
 Each dashboard is built with thematic aesthetics and provides clear insights to support business decisions.
 
@@ -35,7 +35,7 @@ A visually rich dashboard that provides insights into a coffee shop’s sales pe
 
 ---
 
-## 🛒 Ecommerce Sales Dashboard
+## 🛒 Ecommerce Dashboard
 
 A modern and clean dashboard presenting a state-wise and category-wise overview of ecommerce sales, quantity, and profit.
 
