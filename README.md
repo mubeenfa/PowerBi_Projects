@@ -39,7 +39,7 @@ A visually rich dashboard that provides insights into a coffee shop’s sales pe
 
 A modern and clean dashboard presenting a state-wise and category-wise overview of ecommerce sales, quantity, and profit.
 
-![Ecommerce Dashboard Preview](./f1d2bf70-4482-4a76-8d60-d5b145830efb.png)
+![Ecommerce Dashboard Preview]([./f1d2bf70-4482-4a76-8d60-d5b145830efb.png](https://github.com/mubeenfa/PowerBi_Projects/blob/4ba479dfd1461d18cda9ff769f24b463af09f2e5/assets/ecommerce_dashboard.png))
 
 ### Highlights
 
